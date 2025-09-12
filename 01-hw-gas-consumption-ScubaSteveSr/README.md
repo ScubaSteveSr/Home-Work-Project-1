@@ -9,9 +9,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Blake Wood
 
-### Email: Enter your OU email
+### Email: bw059124@ohio.edu
 
 ---
 
